@@ -14,7 +14,8 @@ yarn.lock
 Cargo.lock
 node_modules/
 
-dist-js
+# Added this directory to the git repo, bcz the plugin is not published yet to any registery
+# dist-js
 dist
 
 # Project exclude paths
